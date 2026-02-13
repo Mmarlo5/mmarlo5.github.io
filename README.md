@@ -15,13 +15,10 @@
 </div>
 
 <hr>
+
 ## 🖋️ Who I Am
 
-<img src="headshot.jpg" width="160" style="float:left; margin:6px 16px 10px 0; border-radius:8px;">
-
 I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). I develop original measures of policy-opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how closely state-level abortion policy aligns with public opinion on abortion.
-
-<div style="clear:both;"></div>
 
 Beyond the data:
 * ☕ **Fuel:** Powered by strong coffee.
