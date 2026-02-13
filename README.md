@@ -8,7 +8,7 @@
     </p>
     <p style="margin:0;">
        <a href="Marlo_Rossi_CV.pdf">📄 CV</a> |
-      <a href="mailto:mgr121@scarletmail.rutgers.edu">📧 Email</a> |
+      <a href="mailto:mgr121@scarletmail.rutgers.edu?subject=Website Contact">📧 Email</a>
       <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">🔗 LinkedIn</a> |
       <a href="https://github.com/mmarlo5">📂 GitHub</a>
     </p>
