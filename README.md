@@ -1,12 +1,12 @@
 # Marlo Rossi
-**Ph.D. Candidate | Public Affairs & Community Development** *Rutgers University–Camden*
+**Ph.D. Candidate | [cite_start]Public Affairs & Community Development** *Rutgers University–Camden* [cite: 2]
 
-[📧 Email](mailto:mgr121@scarletmail.rutgers.edu) | [🔗 LinkedIn](https://linkedin.com/in/marlo-rossi-1995-rutgers) | [📂 GitHub](https://github.com/mmarlo5)
+[📧 Email](mailto:mgr121@scarletmail.rutgers.edu) | [🔗 LinkedIn](https://linkedin.com/in/marlo-rossi-1995-rutgers) | [cite_start][📂 GitHub](https://github.com/mmarlo5) [cite: 3]
 
 ---
 
 ## 🖋️ Who I Am
-I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). I develop original measures of policy-opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine gender differences, regional variation, and policy feedback effects.
+I am a Ph.D. [cite_start]Candidate at Rutgers University–Camden (2022–Present)[cite: 2, 10]. [cite_start]My research examines the vital intersection of **public opinion and state-level policy**, specifically developing original measures of policy-opinion congruence in U.S. abortion legislation from 2000–2024[cite: 5, 11].
 
 Beyond the data:
 * ☕ **Fuel:** Powered by strong coffee.
@@ -16,31 +16,42 @@ Beyond the data:
 ---
 
 ## 📑 Featured Research
-> **Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** > *Dissertation Project* > I examine how institutional context, partisanship, and political ideology shape the representation gap in the U.S. using state-level policy indicators.  
+> [cite_start]**Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** [cite: 13] > [cite_start]*Dissertation Project* > Using longitudinal survey data and state-level policy indicators, I examine how institutional context, partisanship, and gender shape the representation gap in the U.S. [cite: 6, 11]
 > 
 > **[Read the Abstract (Coming Soon)](#)** | **[View APSA 2026 Presentation Slides (Coming Soon)](#)**
 
-### 🏛️ Active Projects & Presentations
-* **APSA 2026:** *Policy Congruence and Public Opinion of Abortion in the United States* (Paper #2323516).
-* **MPSA 2025:** *Shifting Landscapes: Analyzing Abortion Attitudes Across U.S. Regions*.
-* **Gender Congruence:** Measuring gender differences in abortion policy alignment (Planned submission to *Social Science & Medicine*, April 2026).
+### 🏛️ Conference Presentations
+* [cite_start]**Policy Congruence and Public Opinion of Abortion in the United States (2000-2024)** *American Political Science Association (APSA) Annual Meeting, September 2026*[cite: 14, 24].
+  * Submission Code: 2323516 (Individual Paper)
+  * Fields: Gender Politics and Policy, Public Policy, Public Opinion
+  * Status: Reviews Completed – Awaiting final decision.
+* [cite_start]**Shifting Landscapes: Analyzing Abortion Attitudes Across U.S. Regions** *Midwest Political Science Association (MPSA) Annual Meeting, 2025*[cite: 25].
 
 ---
 
-## 📰 Public Scholarship & Applied Work
-*Bridging academic research, policy, and public discourse.*
+## 📰 Public Scholarship
+*Bridging academic research and public discourse.*
 
-* **The Conversation:** (Forthcoming) *Policy Congruence and Abortion in the United States.*
-* **Senator Walter Rand Institute:** *Abortion Access and Public Opinion in South Jersey* (Cory Rand Scholarship, $5,000). [Read the Report](Abortion_Access_Cory_Rand.pdf)
-* **Education Equity:** Created a Camden school-level dataset for the Center for Urban Research & Education (CURE).
+* **Rossi, M.** (Forthcoming). [cite_start]*Policy Congruence and Abortion in the United States.* **The Conversation.** [cite: 21]
+  > This piece translates my dissertation findings for a general audience, exploring why state laws often diverge from the preferences of their residents.
 
 ---
 
 ## 🎓 Teaching & Syllabi
-I bridge theory and practice by designing courses that emphasize planning justice, institutional policy, and gender equity.
+[cite_start]I bridge theory and practice by designing courses that emphasize planning justice, institutional policy, and gender equity[cite: 45].
 
-* **Title IX and Gender Equity (Spring 2026)** — Examining higher education policy and institutional equity. [View Syllabus (PDF)](TitleIX_Syllabus.pdf)
-* **Urban Studies (Spring 2025)** — Focused on planning justice and housing equity. [View Syllabus (PDF)](UrbanStudies_Syllabus.pdf)
+* [cite_start]**Title IX and Gender Equity (Spring 2026)** — Scheduled undergraduate course on higher education policy and gender equity[cite: 42, 43].  
+  [View Syllabus (PDF)](TitleIX_Syllabus.pdf)
+* [cite_start]**Urban Studies (Spring 2025)** — Focused on planning justice, housing equity, and gender equality[cite: 44, 45].  
+  [View Syllabus (PDF)](UrbanStudies_Syllabus.pdf)
+
+---
+
+## 🔍 Applied Work & Experience
+**Senator Walter Rand Institute for Public Affairs** | [cite_start]*Graduate Assistant (2023–Present)* [cite: 29]
+* [cite_start]**Policy Report:** *Abortion Access and Public Opinion in South Jersey*, funded by the Cory Rand Scholarship ($5,000)[cite: 18, 19, 50].  
+  [Read the Report](Abortion_Access_Cory_Rand.pdf)
+* [cite_start]**Mixed-Methods Research:** Conducted research on community development and criminal justice initiatives, including the *Clayton Model* evaluation[cite: 30].
 
 ---
 
@@ -49,7 +60,9 @@ I bridge theory and practice by designing courses that emphasize planning justic
 | :--- | :--- |
 | State-year Panel Analysis | R & Stata |
 | Multilevel Modeling | Python |
-| Policy Coding & GSS Analysis | QGIS |
+| Survey Analysis (GSS) | QGIS |
+
+[cite_start][cite: 48]
 
 ---
 
