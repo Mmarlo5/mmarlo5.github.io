@@ -3,7 +3,7 @@
   <div>
     <h1 style="margin:0;">Marlo Rossi</h1>
     <p style="margin:6px 0 10px 0;">
-      <strong>Ph.D. Candidate | Public Affairs &amp; Community Development</strong>
+      <strong>Ph.D. Candidate | Public Affairs &amp; Community Development</strong><br>
       <em>Rutgers University–Camden</em>
     </p>
     <p style="margin:0;">
@@ -15,6 +15,7 @@
 </div>
 
 <hr>
+
 
 ## 🖋️ Who I Am
 
