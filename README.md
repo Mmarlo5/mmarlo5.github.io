@@ -1,13 +1,11 @@
 <div style="display:flex; align-items:flex-start; gap:18px;">
   <img src="headshot.jpg" width="140" style="border-radius:8px;">
 
-  <div>
-    <h1 style="margin:0;">Marlo Rossi</h1>
-
-    <strong>Ph.D. Candidate | Public Affairs &amp; Community Development</strong><br>
+<div>
+  <h1 style="margin:0;">Marlo Rossi</h1>
+<strong>Ph.D. Candidate | Public Affairs &amp; Community Development</strong><br>
     <em>Rutgers University–Camden</em><br><br>
-
-    <a href="Marlo_Rossi_CV.pdf">📄 CV</a> |
+   <a href="Marlo_Rossi_CV.pdf">📄 CV</a> |
     <a href="mailto:mgr121@scarletmail.rutgers.edu">📧 Email</a> |
     <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">🔗 LinkedIn</a> |
     <a href="https://github.com/mmarlo5">📂 GitHub</a>
