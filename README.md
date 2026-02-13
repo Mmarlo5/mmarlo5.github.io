@@ -45,7 +45,7 @@ I am passionate about bridging the gap between theory and practice in the classr
 
 ## 🚢 Recent Applied Work
 **Senator Walter Rand Institute for Public Affairs** *Policy Report: Abortion Access and Public Opinion in South Jersey* Supported by the Cory Rand Scholarship ($5,000).  
-[Read the Report]((Abortion_Access_Cory_Rand.pdf)
+[Read the Report](Abortion_Access_Cory_Rand.pdf)
 
 ---
 
