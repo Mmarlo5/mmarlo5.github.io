@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 Who I Am
+## 🖋️ Who I Am
 I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). My research focuses on the intersection of **public opinion and state-level policy**, specifically developing original measures of policy-opinion congruence in U.S. abortion legislation from 2000–2024.
 
 Beyond the data:
@@ -34,7 +34,7 @@ Beyond the data:
 
 ---
 
-## 🏫 Teaching & Syllabi
+## 🎓 Teaching & Syllabi
 I bridge theory and practice by designing courses that emphasize planning justice, institutional policy, and gender equity.
 
 * **Title IX and Gender Equity (Spring 2026)** — [View Syllabus (PDF)](TitleIX_Syllabus.pdf)
@@ -42,7 +42,7 @@ I bridge theory and practice by designing courses that emphasize planning justic
 
 ---
 
-## 🚢 Applied Work & Experience
+ ## 📰 Applied Work & Experience
 **Senator Walter Rand Institute for Public Affairs** | *Graduate Assistant (2023–Present)*
 * **Policy Report:** *Abortion Access and Public Opinion in South Jersey*, funded by the Cory Rand Scholarship ($5,000).  
   [Read the Report](Abortion_Access_Cory_Rand.pdf)
@@ -50,7 +50,7 @@ I bridge theory and practice by designing courses that emphasize planning justic
 
 ---
 
-## 🛠️ Technical Toolkit
+ ## 🔍 Technical Toolkit
 | Methods | Software |
 | :--- | :--- |
 | State-year Panel Analysis | R & Stata |
