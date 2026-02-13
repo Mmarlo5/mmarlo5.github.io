@@ -66,7 +66,3 @@ I bridge theory and practice by designing courses that emphasize planning justic
 | **Qualitative** | Qualitative interview coding & analytic memos | **NVivo / Atlas.ti** |
 | **Leadership** | Research supervision & workflow optimization | **Project management** |
 
-
----
-
-*“Laughter is timeless, imagination has no age, and dreams are forever.” — Walt Disney*
