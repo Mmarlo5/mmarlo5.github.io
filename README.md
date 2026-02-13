@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 About Me
+## Who I am? 
 I am a Ph.D. Candidate at Rutgers University–Camden, where I study the intersection of **public opinion and state-level policy**. My dissertation focuses on developing original measures of policy-opinion congruence in U.S. abortion legislation from 2000–2024.
 
 Beyond the data:
