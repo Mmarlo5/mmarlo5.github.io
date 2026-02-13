@@ -16,7 +16,7 @@ Beyond the data:
 ---
 
 ## 📊 Featured Research
-> **Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** > *Dissertation Project* > Using longitudinal survey data and state-level policy indicators, I examine how institutional context, partisanship, and gender shape the representation gap in the U.S.  
+> **Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** > *Dissertation Project* > Using longitudinal survey data and state-level policy indicators, I examine how institutional context, partisanship, and political ideology shape the representation gap in the U.S.  
 > 
 > **[Read the Abstract (Coming Soon)](#)** | **[View APSA 2026 Presentation Slides (Coming Soon)](#)**
 
@@ -30,7 +30,7 @@ Beyond the data:
 *Bridging academic research and public discourse.*
 
 * **Rossi, M.** (Forthcoming). *Policy Congruence and Abortion in the United States.* **The Conversation.**
-  > This piece translates my dissertation findings for a general audience, exploring why state laws often diverge from the preferences of their residents.
+  This piece translates my dissertation findings for a general audience, exploring why state laws often diverge from the preferences of their residents.
 
 ---
 
