@@ -14,7 +14,6 @@
     </p>
   </div>
 </div>
-
 <hr>
 
 ## Who I Am
