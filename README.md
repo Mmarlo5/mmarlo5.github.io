@@ -11,14 +11,14 @@ I am a Ph.D. Candidate at Rutgers University–Camden, where I study the interse
 Beyond the data:
 * ☕ **Fuel:** Powered by strong coffee.
 * 📚 **Fiction:** Always in the middle of a good novel (suggestions welcome!).
-* 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at the Magic Kingdom.
+* 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at a Disney theme park. 
 
 ---
 
 ## 📊 Featured Research
 > **Policy Congruence and Public Opinion on Abortion (2000–2024)** > *Dissertation Project* > I utilize longitudinal survey data and state-level policy indicators to examine how institutional context and gender shape the representation gap in the U.S.
 > 
-> **[Read the Abstract](./research)** | **[View Presentation Sliders (APSA 2026)](#)**
+> **[Read the Abstract](./research)** 
 
 ---
 
