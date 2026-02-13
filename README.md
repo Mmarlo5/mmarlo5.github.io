@@ -25,8 +25,12 @@ Beyond the data:
 ## 🏫 Teaching & Syllabi
 I am passionate about bridging the gap between theory and practice in the classroom. Click below to view the syllabi for courses I have designed and taught:
 
-* **Title IX and Gender Equity (Spring 2026)** — [View Syllabus (PDF)](./assets/pdf/TitleIX_Syllabus_Rossi.pdf)
-* **Urban Studies (Spring 2025)** — [View Syllabus (PDF)](./assets/pdf/UrbanStudies_Syllabus_Rossi.pdf)
+## Teaching
+
+* **Title IX and Gender Equity (Spring 2026)** — [View Syllabus (PDF)](TitleIX_Syllabus.pdf)
+
+* **Urban Studies (Spring 2025)** — [View Syllabus (PDF)](UrbanStudies_Syllabus.pdf)
+
 
 ---
 
