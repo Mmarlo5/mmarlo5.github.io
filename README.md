@@ -2,22 +2,26 @@
   <img src="headshot.jpg" width="140" style="border-radius:8px;">
   <div>
     <h1 style="margin:0;">Marlo Rossi</h1>
+
     <p style="margin:6px 0 10px 0;">
       <strong>Ph.D. Candidate | Public Affairs &amp; Community Development</strong><br>
       <em>Rutgers University–Camden</em>
-<p style="margin:0;">
-  <a href="Marlo_Rossi_CV.pdf">📄 CV</a> |
-  📧 mgr121@scarletmail.rutgers.edu |
-  <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">🔗 LinkedIn</a> |
-  <a href="https://github.com/mmarlo5">📂 GitHub</a>
-</p>
+    </p>
+
+    <p style="margin:0;">
+      <a href="Marlo_Rossi_CV.pdf">📄 CV</a> |
+      📧 mgr121@scarletmail.rutgers.edu |
+      <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">🔗 LinkedIn</a> |
+      <a href="https://github.com/mmarlo5">📂 GitHub</a>
+    </p>
   </div>
 </div>
 
 <hr>
-## Who I Am
 
-I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). I develop original measures of policy-opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how closely state-level abortion policy aligns with public opinion on abortion.
+## 🖋️ Who I Am
+
+I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). I develop original measures of policy–opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how closely state-level abortion policy aligns with public opinion on abortion.
 
 Beyond the data:
 * ☕ **Fuel:** Powered by strong coffee.
