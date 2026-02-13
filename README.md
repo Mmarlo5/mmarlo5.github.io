@@ -16,7 +16,7 @@ Beyond the data:
 ---
 
 ## 📑 Featured Research
-> **Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** > *Dissertation Project* > I examine how institutional context, partisanship, and political ideology shape the representation gap in the U.S. using state-level policy indicators.  
+> **Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** *Dissertation Project*  I examine how institutional context, partisanship, and political ideology shape the representation gap in the U.S. using state-level policy indicators.  
 > 
 > **[Read the Abstract (Coming Soon)](#)** | **[View APSA 2026 Presentation Slides (Coming Soon)](#)**
 
