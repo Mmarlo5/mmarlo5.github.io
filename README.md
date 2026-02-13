@@ -1,25 +1,16 @@
-<div style="display:flex; align-items:flex-start; gap:18px;">
-  <img src="headshot.jpg" width="160" style="border-radius:8px;">
-  <div>
-
-# Marlo Rossi
-**Ph.D. Candidate | Public Affairs & Community Development** *Rutgers University–Camden*
-
-[📧 Email](mailto:mgr121@scarletmail.rutgers.edu) | [🔗 LinkedIn](https://linkedin.com/in/marlo-rossi-1995-rutgers) | [📂 GitHub](https://github.com/mmarlo5)
-
-  </div>
-</div>
-
 ## 🖋️ Who I Am
-I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). I develop original measures of policy-opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how inline state level abortion policy is with public opinion of abortion.
 
+<img src="headshot.jpg" width="160" style="float:left; margin:6px 16px 10px 0; border-radius:8px;">
+
+I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). I develop original measures of policy-opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how closely state-level abortion policy aligns with public opinion on abortion.
+
+<div style="clear:both;"></div>
 
 Beyond the data:
 * ☕ **Fuel:** Powered by strong coffee.
 * 📚 **Fiction:** Always in the middle of a good novel (suggestions welcome!).
-* 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at a Disney theme park. 
+* 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at a Disney theme park.
 
----
 
 ## 📑 Featured Research
 > **Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** <*Dissertation Project*> I examine how institutional context, partisanship, and political ideology shape the representation gap in the U.S. using state-level policy indicators.  
