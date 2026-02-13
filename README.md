@@ -8,7 +8,6 @@
 
   <span>📧 mgr121@scarletmail.rutgers.edu</span><br><br>
 
-
   <a href="Marlo_Rossi_CV.pdf">📄 CV</a> |
   <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">🔗 LinkedIn</a> |
   <a href="https://github.com/mmarlo5">📂 GitHub</a>
@@ -64,5 +63,4 @@ I bridge theory and practice by designing courses that emphasize planning justic
 | **Quantitative** | State-year panel analysis, GSS survey analysis, multilevel modeling | **R, Stata, Python** |
 | **Spatial** | Policy coding & geographic mapping | **QGIS** |
 | **Qualitative** | Qualitative interview coding & analytic memos | **NVivo / Atlas.ti** |
-| **Leadership** | Research supervision & workflow optimization | **Project management** |
 
