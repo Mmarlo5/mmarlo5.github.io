@@ -44,13 +44,16 @@ I bridge theory and practice by designing courses that emphasize planning justic
 
 ---
 
+---
+
 ## 💻 Technical Toolkit
-| Methods | Software |
-| :--- | :--- |
-| State-year Panel Analysis | R & Stata |
-| Multilevel Modeling | Python |
-| Policy Coding & GSS Analysis | QGIS |
-| Qualitative Coding & Memos | NVivo / Atlas.ti |
+
+| Category | Methods | Software |
+| :--- | :--- | :--- |
+| **Quantitative** | State-year panel analysis, GSS survey analysis, Multilevel modeling | **R, Stata, Python** |
+| **Spatial** | Policy coding & Geographic mapping | **QGIS** |
+| **Qualitative** | Qualitative interview coding & Analytic memos | **NVivo / Atlas.ti** |
+| **Leadership** | Research supervision & Workflow optimization | **Project Management** |
 
 ---
 
