@@ -1,10 +1,14 @@
+<div style="display:flex; align-items:flex-start; gap:18px;">
+  <img src="headshot.jpg" width="160" style="border-radius:8px;">
+  <div>
+
 # Marlo Rossi
 **Ph.D. Candidate | Public Affairs & Community Development** *Rutgers University–Camden*
 
 [📧 Email](mailto:mgr121@scarletmail.rutgers.edu) | [🔗 LinkedIn](https://linkedin.com/in/marlo-rossi-1995-rutgers) | [📂 GitHub](https://github.com/mmarlo5)
 
----
-<img src="headshot.jpg" align="left" width="160" style="margin-right:15px; border-radius:8px;">
+  </div>
+</div>
 
 ## 🖋️ Who I Am
 I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). I develop original measures of policy-opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how inline state level abortion policy is with public opinion of abortion.
