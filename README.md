@@ -1,4 +1,5 @@
 # Marlo Rossi
+<img src="head shot_2(1).jpg" width="200">
 
 **Ph.D. Candidate, Public Affairs & Community Development (Rutgers University–Camden)**  
 Sewell, NJ • (609) 541-8512 • mgr121@scarletmail.rutgers.edu  
