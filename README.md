@@ -26,12 +26,6 @@ Beyond the data:
 * 📚 **Fiction:** Always in the middle of a good novel (suggestions welcome!).
 * 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at a Disney theme park.
 
-Beyond the data:
-* ☕ **Fuel:** Powered by strong coffee.
-* 📚 **Fiction:** Always in the middle of a good novel (suggestions welcome!).
-* 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at a Disney theme park.
-
-
 ##  Featured Research
 > **Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** <*Dissertation Project*> I examine how institutional context, partisanship, and political ideology shape the representation gap in the U.S. using state-level policy indicators.  
 > 
