@@ -6,12 +6,12 @@
 ---
 
 ## 👋 About Me
-I am a Ph.D. Candidate at Rutgers University–Camden, where I study the intersection of **public opinion and state-level policy**. My dissertation focuses on developing original measures of policy-opinion congruence in U.S. abortion legislation from 1973–2024.
+I am a Ph.D. Candidate at Rutgers University–Camden, where I study the intersection of **public opinion and state-level policy**. My dissertation focuses on developing original measures of policy-opinion congruence in U.S. abortion legislation from 2000–2024.
 
 Beyond the data:
 * ☕ **Fuel:** Powered by strong coffee.
 * 📚 **Fiction:** Always in the middle of a good novel (suggestions welcome!).
-* 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics and community-building happen best on a ship or at the Magic Kingdom.
+* 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at the Magic Kingdom.
 
 ---
 
