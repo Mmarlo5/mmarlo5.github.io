@@ -14,14 +14,19 @@
       <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">🔗 LinkedIn</a> |
       <a href="https://github.com/mmarlo5">📂 GitHub</a>
     </p>
-  </div>
+</div>
 </div>
 
 <hr>
 
 ## 🖋️ Who I Am
 
-I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). I develop original measures of policy–opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how closely state-level abortion policy aligns with public opinion on abortion.
+I am a Ph.D. Candidate in Public Affairs & Community Development at Rutgers University–Camden (2022–Present). My research develops original measures of policy–opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how closely state-level abortion policy aligns with public opinion on abortion.
+
+Beyond the data:
+* ☕ **Fuel:** Powered by strong coffee.
+* 📚 **Fiction:** Always in the middle of a good novel (suggestions welcome!).
+* 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at a Disney theme park.
 
 Beyond the data:
 * ☕ **Fuel:** Powered by strong coffee.
