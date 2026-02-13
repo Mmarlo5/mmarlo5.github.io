@@ -16,7 +16,7 @@
 
 <hr>
 
-## 🖋️ Who I Am
+## Who I Am
 
 I am a Ph.D. Candidate at Rutgers University–Camden (2022–Present). I develop original measures of policy-opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how closely state-level abortion policy aligns with public opinion on abortion.
 
@@ -26,19 +26,19 @@ Beyond the data:
 * 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at a Disney theme park.
 
 
-## 📑 Featured Research
+##  Featured Research
 > **Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** <*Dissertation Project*> I examine how institutional context, partisanship, and political ideology shape the representation gap in the U.S. using state-level policy indicators.  
 > 
 > **[Read the Abstract (Coming Soon)](#)** | **[View APSA 2026 Presentation Slides (Coming Soon)](#)**
 
-### 🏛️ Active Projects & Presentations
+### Active Projects & Presentations
 * **APSA 2026:** *Policy Congruence and Public Opinion of Abortion in the United States* (Paper #2323516).
 * **MPSA 2025:** *Shifting Landscapes: Analyzing Abortion Attitudes Across U.S. Regions*.
 * **Gender Congruence:** Measuring gender differences in abortion policy alignment (Planned submission to *Social Science & Medicine*, April 2026).
 
 ---
 
-## 📰 Public Scholarship & Applied Work
+##  Public Scholarship & Applied Work
 *Bridging academic research, policy, and public discourse.*
 
 * **The Conversation:** (Forthcoming) *Policy Congruence and Abortion in the United States.*
@@ -47,7 +47,7 @@ Beyond the data:
 
 ---
 
-## 🎓 Teaching & Syllabi
+##  Teaching & Syllabi
 I bridge theory and practice by designing courses that emphasize planning justice, institutional policy, and gender equity.
 
 * **Title IX and Gender Equity (Spring 2026)** — Examining higher education policy and institutional equity. [View Syllabus (PDF)](TitleIX_Syllabus.pdf)
@@ -57,7 +57,7 @@ I bridge theory and practice by designing courses that emphasize planning justic
 
 ---
 
-## 💻 Technical Toolkit
+##  Technical Toolkit
 
 | Category | Methods | Software |
 | :--- | :--- | :--- |
