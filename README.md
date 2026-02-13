@@ -61,10 +61,11 @@ I bridge theory and practice by designing courses that emphasize planning justic
 
 | Category | Methods | Software |
 | :--- | :--- | :--- |
-| **Quantitative** | State-year panel analysis, GSS survey analysis, Multilevel modeling | **R, Stata, Python** |
-| **Spatial** | Policy coding & Geographic mapping | **QGIS** |
-| **Qualitative** | Qualitative interview coding & Analytic memos | **NVivo |
-| **Leadership** | Research supervision & Workflow optimization | **Project Management** |
+| **Quantitative** | State-year panel analysis, GSS survey analysis, multilevel modeling | **R, Stata, Python** |
+| **Spatial** | Policy coding & geographic mapping | **QGIS** |
+| **Qualitative** | Qualitative interview coding & analytic memos | **NVivo / Atlas.ti** |
+| **Leadership** | Research supervision & workflow optimization | **Project management** |
+
 
 ---
 
