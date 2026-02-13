@@ -6,14 +6,15 @@
     <p style="margin:6px 0 10px 0;">
       <strong>Ph.D. Candidate | Public Affairs &amp; Community Development</strong><br>
       <em>Rutgers University–Camden</em>
-    </p>
+      </p>
 
-    <p style="margin:0;">
-      <a href="Marlo_Rossi_CV.pdf">📄 CV</a> |
-      📧 mgr121@scarletmail.rutgers.edu |
-      <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">🔗 LinkedIn</a> |
-      <a href="https://github.com/mmarlo5">📂 GitHub</a>
-    </p>
+<p style="margin:0;">
+  <a href="Marlo_Rossi_CV.pdf">📄 CV</a> |
+  <a href="mailto:mgr121@scarletmail.rutgers.edu">📧 Email</a> |
+  <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">🔗 LinkedIn</a> |
+  <a href="https://github.com/mmarlo5">📂 GitHub</a>
+</p>
+
 </div>
 </div>
 
