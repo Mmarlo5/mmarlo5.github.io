@@ -41,7 +41,8 @@ Beyond the data:
 ##  Public Scholarship & Applied Work
 *Bridging academic research, policy, and public discourse.*
 
-* **The Conversation:** (Forthcoming) *Policy Congruence and Abortion in the United States.*
+* **The Conversation:** *Abortion laws show that public policy doesn’t always line up with public opinion* (February 2026).  
+  [Read the Article](https://theconversation.com/abortion-laws-show-that-public-policy-doesnt-always-line-up-with-public-opinion-274699?utm_medium=article_clipboard_share&utm_source=theconversation.com)
 * **Senator Walter Rand Institute:** *Abortion Access and Public Opinion in South Jersey* (Cory Rand Scholarship, $5,000). [Read the Report](Abortion_Access_Cory_Rand.pdf)
 * **Education Equity:** Created a Camden school-level dataset for the Center for Urban Research & Education (CURE).
 
