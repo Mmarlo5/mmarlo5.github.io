@@ -1,68 +1,80 @@
-<div style="display:flex; align-items:flex-start; gap:18px;">
-  <img src="headshot.jpg" width="140" style="border-radius:8px;">
+# Marlo Rossi
 
-<div>
-  <h1 style="margin:0;">Marlo Rossi</h1>
-<strong>Ph.D. Candidate | Public Affairs &amp; Community Development</strong><br>
-    <em>Rutgers University–Camden</em><br><br>
+<p align="center">
+  <img src="headshot.jpg" alt="Marlo Rossi" width="190">
+</p>
 
-  <span>📧 mgr121@scarletmail.rutgers.edu</span><br><br>
+<p align="center">
+  <strong>Ph.D. Candidate in Public Affairs & Community Development</strong><br>
+  Rutgers University-Camden | Expected December 2026
+</p>
 
-  <a href="Marlo_Rossi_CV.pdf">📄 CV</a> |
-  <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">🔗 LinkedIn</a> |
-  <a href="https://github.com/mmarlo5">📂 GitHub</a>
-  </div>
-</div>
-
-<hr>
-
-
-## 🖋️ Who I Am
-
-I am a Ph.D. Candidate in Public Affairs & Community Development at Rutgers University–Camden (2022–Present). My research develops original measures of policy–opinion alignment to evaluate how closely state laws reflect the preferences of residents, with a specific focus on **U.S. abortion legislation (2000–2024)**. My work utilizes longitudinal survey data to examine how closely state-level abortion policy aligns with public opinion on abortion.
-
-Beyond the data:
-* ☕ **Fuel:** Powered by strong coffee.
-* 📚 **Fiction:** Always in the middle of a good novel (suggestions welcome!).
-* 🏰 **The "Happy Place":** Huge fan of Disney Parks and Disney Cruises—I'm a believer that world-class logistics are best solved on a ship or at a Disney theme park.
-
-##  Featured Research
-> **Policy Congruence and Public Opinion on Abortion in the United States (2000–2024)** <*Dissertation Project*> I examine how institutional context, partisanship, and political ideology shape the representation gap in the U.S. using state-level policy indicators.  
-> 
-> **[Read the Abstract (Coming Soon)](#)** | **[View APSA 2026 Presentation Slides (Coming Soon)](#)**
-
-### Active Projects & Presentations
-* **APSA 2026:** *Policy Congruence and Public Opinion of Abortion in the United States* (Paper #2323516).
-* **MPSA 2025:** *Shifting Landscapes: Analyzing Abortion Attitudes Across U.S. Regions*.
-* **Gender Congruence:** Measuring gender differences in abortion policy alignment (Planned submission to *Social Science & Medicine*, April 2026).
+<p align="center">
+  <a href="mailto:mgr121@scarletmail.rutgers.edu">Email</a> |
+  <a href="Marlo_Rossi_CV.pdf">CV</a> |
+  <a href="https://linkedin.com/in/marlo-rossi-1995-rutgers">LinkedIn</a> |
+  <a href="https://github.com/mmarlo5">GitHub</a>
+</p>
 
 ---
 
-##  Public Scholarship & Applied Work
-*Bridging academic research, policy, and public discourse.*
+## Research
 
-* **The Conversation:** *Abortion laws show that public policy doesn’t always line up with public opinion* (February 2026).  
-  [Read the Article](https://theconversation.com/abortion-laws-show-that-public-policy-doesnt-always-line-up-with-public-opinion-274699?utm_medium=article_clipboard_share&utm_source=theconversation.com)
-* **Senator Walter Rand Institute:** *Abortion Access and Public Opinion in South Jersey* (Cory Rand Scholarship, $5,000). [Read the Report](Abortion_Access_Cory_Rand.pdf)
-* **Education Equity:** Created a Camden school-level dataset for the Center for Urban Research & Education (CURE).
+I am a Ph.D. candidate in Public Affairs & Community Development at Rutgers University-Camden. My research examines democratic representation, public opinion, and state policymaking, with particular attention to whether state policies reflect the preferences of the people they govern.
 
----
+My dissertation, *Policy Congruence and Public Opinion on Abortion in the United States, 2000-2024*, develops the **Policy Gap**, a continuous and directional measure of policy-opinion congruence. Using restricted-use General Social Survey state identifiers and longitudinal state-policy data, I examine how partisan institutions, political ideology, religiosity, and sociodemographic conditions are associated with differences between abortion policy and public opinion.
 
-##  Teaching & Syllabi
-I bridge theory and practice by designing courses that emphasize planning justice, institutional policy, and gender equity.
+## Featured Research
 
-* **Title IX and Gender Equity (Spring 2026)** — Examining higher education policy and institutional equity. [View Syllabus (PDF)](TitleIX_Syllabus.pdf)
-* **Urban Studies (Spring 2025)** — Focused on planning justice and housing equity. [View Syllabus (PDF)](UrbanStudies_Syllabus.pdf)
+### Policy Congruence and Public Opinion on Abortion in the United States, 2000-2024
 
----
+This project examines the magnitude and direction of policy-opinion differences across states and over time. The Policy Gap distinguishes between policies that are more restrictive than public opinion, policies that are more permissive than public opinion, and estimated alignment between policy and opinion.
 
----
+[View APSA 2026 Presentation Slides](Rossi_APSA_2026_Policy_Gap_Slides.pdf)
 
-##  Technical Toolkit
+## Publications and Current Projects
+
+- **Rossi, M.** "Policy Congruence and Public Opinion on Abortion in the United States, 2000-2024." Working paper and dissertation project. Presented at the 2026 American Political Science Association Annual Meeting.
+
+- **Rossi, M., & Scoglio, A. J.** "US State Abortion Policy Restrictiveness and Public Opinion by Gender, 2000-2024." Under review at *JAMA Network Open*.
+
+- **Rossi, M., & Okulicz-Kozaryn, A.** "Estimating State-Level Abortion Opinion Using the General Social Survey, 2000-2024." Manuscript in preparation.
+
+- **Rossi, M.** "Shifting Landscapes: Analyzing Abortion Attitudes Across U.S. Regions." Presented at the 2025 Midwest Political Science Association Annual Meeting.
+
+## Public Scholarship and Applied Research
+
+- **The Conversation:** ["Abortion Laws Show That Public Policy Doesn't Always Line Up with Public Opinion"](https://theconversation.com/abortion-laws-show-that-public-policy-doesnt-always-line-up-with-public-opinion-274699) (2026).
+
+- **Senator Walter Rand Institute:** *Abortion Access and Public Opinion in South Jersey*. Policy report funded by the Cory Rand Scholarship. [Read the report](Abortion_Access_Cory_Rand.pdf).
+
+- **Center for Urban Research & Education:** Created and maintained a Camden school-level dataset for an education-equity research project.
+
+## Teaching
+
+I design courses that connect theory with contemporary questions of public policy, institutional responsibility, inequality, and democratic participation.
+
+- **Title IX and Gender Equity, Spring 2026:** Examined Title IX law, institutional policy, and intersectional approaches to gender equity. [View the syllabus](TitleIX_Syllabus.pdf).
+
+- **Urban Studies, Spring 2025:** Focused on planning justice, housing equity, urban inequality, and gender. [View the syllabus](UrbanStudies_Syllabus.pdf).
+
+## Methods and Technical Skills
 
 | Category | Methods | Software |
-| :--- | :--- | :--- |
-| **Quantitative** | State-year panel analysis, GSS survey analysis, multilevel modeling | **R, Stata, Python** |
-| **Spatial** | Policy coding & geographic mapping | **QGIS** |
-| **Qualitative** | Qualitative interview coding & analytic memos | **NVivo / Atlas.ti** |
+|---|---|---|
+| Quantitative | State-year analysis, survey-weighted analysis, multilevel modeling, multilevel regression and poststratification, policy measurement, and dataset construction | R, Stata, SPSS, Python |
+| Spatial and policy analysis | Policy-index construction, state-level data integration, and geographic mapping | QGIS, Excel |
+| Qualitative and applied research | Interview coding, thematic analysis, mixed methods, and program evaluation | NVivo |
+| Research communication | Academic manuscripts, policy reports, data visualization, and reproducible documents | LaTeX, Overleaf, Google Colab |
 
+## Selected Awards and Service
+
+- Chancellor's Dissertation Completion Award, Rutgers University-Camden, 2026
+- Cory Rand Scholarship, Rutgers University-Camden, 2024-2025
+- SPARK Award, Political Communication Section of the American Political Science Association, 2026
+- Health Politics and Policy Section Travel Grant, American Political Science Association, 2026
+- Discussant, Division 31: Women, Gender, and Politics, American Political Science Association Annual Meeting, 2026
+
+## Beyond Research
+
+Outside of research and teaching, I am usually reading a novel, planning a trip, or finding another reason to visit a Disney park or cruise. Strong coffee is generally involved.
